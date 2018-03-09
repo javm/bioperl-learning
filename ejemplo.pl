@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-$x = 1;
+$x = 55;
 sub my_function {
     print $x, \n;
 }
