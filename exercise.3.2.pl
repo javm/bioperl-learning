@@ -3,5 +3,5 @@
 chomp(@places = <STDIN>);
 
 foreach $place (@places){
-  print "$names[$place] \n"; 
+ print "$names[$place] \n";
 }
